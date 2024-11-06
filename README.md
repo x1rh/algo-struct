@@ -1,0 +1,97 @@
+## 数据结构
+
+- 链表(单链表/双链表/循环双链表)
+- [跳表-SkipList](./algorithm/skiplist/README.md)
+- [单调栈](./algorithm/MonotonicStack/)
+- [时间轮]()
+- 队列
+  - 循环队列
+  - 单调队列
+  - 优先队列
+  - [无锁队列-lock-free-queue]()
+- cache
+  - [LRUCache](./algorithm/lru/)
+  - [LFUCache](./algorithm/lfu/)
+- [并查集](./algorithm/并查集/)
+- 树
+  - [前缀树 Trie](./algorithm/Trie/)
+  - [树状数组](./algorithm/树状数组/)
+  - [线段树](./algorithm/线段树/)
+  - 珂朵莉树
+  - [TreeSet（区间插入、并、删除、查询）](<./algorithm/区间插入和并、删除、查询(set版)/>)
+  - Treap
+  - Splay
+  - AVLTree
+  - RBTree
+  - TreeSet
+  - LSMTree
+  - BTree
+
+## 算法
+
+- 位运算
+- [二分查找](./algorithm/二分查找/)
+- 排序
+  - 冒泡排序
+  - 插入排序
+  - 归并排序
+  - [堆排序](./algorithm/HeapSort/)
+  - [快速排序](./algorithm/qsort/)
+- 搜索
+  - 01BFS
+- 字符串
+  - [字符串哈希](./algorithm/字符串哈希/)
+  - [最小表示法](./algorithm/最小表示法/)
+  - [Manacher 算法](./algorithm/manacher/)
+  - [KMP 算法](./algorithm/KMP/)
+  - Z-Algorithm
+  - 最长公共前缀（LCP）
+    - 基于哈希值的最长公共前缀
+- 动态规划
+  - 最长上升子序列
+  - 最长公共子序列
+  - 背包问题
+  - 线性 DP
+  - 区间 DP
+- 二叉树
+  - 根据两种遍历序建树
+  - BST
+  - LCA
+  - 树的直径
+  - 树的重心
+- 图论
+  - 拓扑排序
+  - 最短路算法
+    - Floyd
+    - Bellman-Ford
+    - [dijkstra](./algorithm/dijkstra/)
+    - 堆优化 dijkstra
+    - SPFA
+  - 最小生成树算法
+    - [prim](./algorithm/prim/)
+    - [kruskal](./algorithm/kruskal/)
+  - 欧拉图
+  - 网络流
+    - dinic
+  - 二部图匹配
+    - 判定
+    - 匈牙利算法
+- 数学相关
+  - [gcd](./algorithm/math/gcd.go)
+  - [lcm](./algorithm/math/lcm.go)
+  - 素性判断
+  - 筛法
+  - 质因数分解
+  - 快速幂
+  - 矩阵快速幂
+  - 卢卡斯定理
+  - 欧拉函数
+- 其他
+  - 双指针/滑动窗口
+  - [约瑟夫环](./algorithm/约瑟夫环/README.md)
+  - permutation
+  - 二维偏序问题
+  - [调度场算法](./algorithm/调度场算法/)
+  - [前缀/后缀/差分/二维差分](./algorithm/前缀&后缀&差分/)
+  - 分块
+
