@@ -3,7 +3,6 @@
 - 链表(单链表/双链表/循环双链表)
 - [跳表-SkipList](./algorithm/skiplist/README.md)
 - [单调栈](./algorithm/MonotonicStack/)
-- [时间轮]()
 - 队列
   - 循环队列
   - 单调队列
@@ -26,6 +25,9 @@
   - TreeSet
   - LSMTree
   - BTree
+- 其他
+  - [时间轮]()
+  - [限流器 - ratelimiter]()
 
 ## 算法
 
